@@ -17,7 +17,7 @@
 
 ## 模型地址
 
-**Huggingface:** https://huggingface.co/Duyu/Lexipolis
+**Huggingface:** https://huggingface.co/Duyu/Lexipolis-9B-Chat
 
 ## 项目团队人员
 
